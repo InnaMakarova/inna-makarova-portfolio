@@ -24,8 +24,8 @@ body {
 }
 
 .photo {
-    width: 90px;
-    height: 90px;
+    width: 80px;
+    height: 80px;
     border-radius: 50%;
     overflow: hidden;
     background: #ddd url('inna_makarova_photo_2026.jpg') center/cover no-repeat;
@@ -35,7 +35,7 @@ body {
 h1 {
     font-family: 'Roboto', serif;
     font-size: 1.8em;
-    margin-right: 40px;
+    margin-right: 30px;
 }
 
 .experience {
