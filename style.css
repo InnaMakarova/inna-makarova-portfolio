@@ -28,13 +28,13 @@ body {
     height: 90px;
     border-radius: 50%;
     overflow: hidden;
-    background: #ddd url('IMG_8266.JPG') center/cover no-repeat;
+    background: #ddd url('inna_makarova_photo_2026.jpg') center/cover no-repeat;
     flex-shrink: 0;
 }
 
 h1 {
     font-family: 'Roboto', serif;
-    font-size: 2.2em;
+    font-size: 1.8em;
     margin: 0;
 }
 
