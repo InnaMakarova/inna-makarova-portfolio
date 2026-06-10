@@ -11,13 +11,13 @@ body {
     display: flex;
     align-items: center;
     gap: 16px;
+}
 
 .photo {
     width: 100px;
     height: 100px;
     border-radius: 50%;
     overflow: hidden;
-    margin: 0 auto 20px;
     background: #ddd url('IMG_8266.JPG') center/cover no-repeat;
 }
 
@@ -25,7 +25,6 @@ h1 {
     font-family: 'Roboto';
     font-size: 2.2em;
     letter-spacing: 0.5px;
-    margin: 10px 0 25px;
 }
 
 .experience {
